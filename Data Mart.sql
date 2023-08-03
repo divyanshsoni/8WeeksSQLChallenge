@@ -1,3 +1,4 @@
+-- Data Cleansing steps
 create table data_mart.clean_weekly_sales as
 (
   with data_cte as (
