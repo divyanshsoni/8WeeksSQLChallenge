@@ -23,3 +23,6 @@ else 'Unknown'
 end as demographic,
 round(sales::numeric/transactions,2) as avg_transactions
 from data_cte);
+
+-- Data Exploration
+1
