@@ -52,4 +52,4 @@ from data_mart.clean_weekly_sales
 group by platform
 order by platform
 
--- 6. 
+-- 6. kjhkj
